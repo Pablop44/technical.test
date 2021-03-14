@@ -1,0 +1,6 @@
+flask
+flasgger
+configparser
+sklearn
+pandas
+neo4j

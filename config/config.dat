@@ -1,0 +1,5 @@
+[common_configuration]
+socket_to_connect = bolt://localhost:7687
+user = neo4j
+password = pablo
+database = neo4j
